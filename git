@@ -1,0 +1,10 @@
+1 раз
+git init -инициализация
+git remote add origin ссылка на ваш репо- привязывает ваш проект с вашим репо
+
+
+
+регулярные команды
+git add namefile/.- добавляет файлы в гит
+git commit -m ''- чекпоинт
+git push origin master/main-отправка файлов в реп
