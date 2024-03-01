@@ -11,6 +11,9 @@ git push origin master/main-отправка файлов в реп
 
 
 полезные команды
+
+git clone ссылка на репо - клонирует реп в ваш комп
+
 git rm --cached namefile
 git rm --cached -r namedir
 
