@@ -54,7 +54,7 @@ class Figure(A):
 
 
 a=A('name',radius='100')
-# a.wrong()
+a.wrong()
 
 d=Rectangle('name','1','red')
 d.vizion()
