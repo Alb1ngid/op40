@@ -19,4 +19,10 @@ git rm --cached namefile
 git rm --cached -r namedir
 
 
+ветки
+
+git branch - показывает ветки и на какой вы ветке
+git branch name - создать ветку
+git checkout name -переключает ветку
+git checkout -b name- создает и переключает ветку
 
